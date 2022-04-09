@@ -87,7 +87,8 @@ class CreditsState extends MusicBeatState
 			[''],
 			['Android Port'],
 			['Raiden Alfares',      'raiden',   'coding?',      'https://youtube.com/channel/UChE0s906J1YZRf1Ln9wP8Gg',   'FFFFF'], 
-			['BrG',       'brg',    'helper',      'https://youtube.com/c/BasicallyItsBrG',      'FFFFF']
+			['BrG',       'brg',    'helper',      'https://youtube.com/c/BasicallyItsBrG',      'FFFFF'], 
+			['EmirPlays',       'EmirPlays',    'tester',      'https://youtube.com/channel/UCANExMiyDRT5ITDSKyhKa3g',      'FFFFF']
 		];
 		
 		for(i in pisspoop){
