@@ -121,6 +121,8 @@
 	<haxelib name="faxe" if='switch'/>
 	<haxelib name="discord_rpc" if="desktop"/>
 	<haxelib name="extension-webview"/>
+        <haxelib name="AndroidTools" if="android"/> 
+
 
 	<!-- <haxelib name="markdown" /> -->
 	<!-- <haxelib name="HtmlParser" /> -->
