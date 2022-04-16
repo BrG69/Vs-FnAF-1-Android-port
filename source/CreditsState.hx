@@ -86,9 +86,10 @@ class CreditsState extends MusicBeatState
 			['An Ammar',				'ammar',			'additional codings',							'https://twitter.com/yoshubs',			'FFFFFF'],
 			[''],
 			['Android Port'],
-			['Raiden Alfares',      'raiden',   'coding?',      'https://youtube.com/channel/UChE0s906J1YZRf1Ln9wP8Gg',   'FFFFF'], 
+			['Raiden Alfares',      'raiden',   'coding?',      'https://youtube.com/channel/UChE0s906J1YZRf1Ln9wP8Gg',   'FFFFF'],
 			['BrG',       'brg',    'helper',      'https://youtube.com/c/BasicallyItsBrG',      'FFFFF'], 
 			['EmirPlays',       'EmirPlays',    'tester',      'https://youtube.com/channel/UCANExMiyDRT5ITDSKyhKa3g',      'FFFFF']
+			['Heropowerbrine',       'brine',    'a little help',      'https://youtube.com/channel/UCANExMiyDRT5ITDSKyhKa3g',      'FFFFF']
 		];
 		
 		for(i in pisspoop){
